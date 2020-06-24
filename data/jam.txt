@@ -1,0 +1,8 @@
+sugar,
+apricot, .3
+water,
+emulsifiers (E440),
+citric acid,
+preservative (E202),
+flavorings,
+E900,

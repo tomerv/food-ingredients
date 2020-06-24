@@ -1,0 +1,6 @@
+wheat flour,
+sugar,
+chocolate chips, 0.2
+sunflower oil,
+raising agents,
+flavorings,

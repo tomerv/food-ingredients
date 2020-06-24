@@ -1,0 +1,6 @@
+peanuts, 0.5
+corn, 
+vegetable oil, 
+salt, 
+vitamins, 
+iron,

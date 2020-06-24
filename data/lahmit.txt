@@ -1,0 +1,21 @@
+corn, 0.36
+whole wheat, 0.20
+sugar, 
+oat flakes, 0.087
+almonds, 0.047
+vegetable oil, 
+rice flour, 
+wheat flour, 
+rice, 
+malt, 
+salt, 
+corn syrup, 
+whey, 
+honey, 0.004
+corn & malt syrup, 
+cinnamon, 
+other1, 
+other2, 
+other3, 
+other4, 
+other5, 

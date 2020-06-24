@@ -1,0 +1,5 @@
+water,
+white organic rice, .14
+organic almonds, .001
+organic sunflower oil,
+salt,

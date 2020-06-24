@@ -1,0 +1,6 @@
+sweeteners,
+butter, .079
+cream, .07
+salt,
+flavoring,
+emulsifier,

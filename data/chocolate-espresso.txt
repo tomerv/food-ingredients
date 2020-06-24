@@ -1,0 +1,4 @@
+Milk chocolate, .58
+nougat, .40
+milk fat,
+coffee extract, 0.001
